@@ -1,0 +1,16 @@
+.not-found {
+    padding: 5% 2% 2% 2%;
+}
+
+.code {
+    font-size: 150px;
+    color: rgb(211, 64, 64);
+}
+
+.text {
+    font-size: 25px;
+    padding: 4%;
+    background-color: rgb(60, 63, 63);
+    border-radius: 45% 45% 0 0;
+    color: rgb(224, 224, 224);
+}

@@ -1,0 +1,52 @@
+.pokemon-card {
+	padding: 2vh;
+    font-size: 19px;
+/*     background-color: rgb(244, 244, 244);
+ */}
+
+.image {
+	width: 20vh;
+    height: 20vh;
+}
+
+.header {
+    height: 11vh;
+    padding: 2%;
+	border-radius: 4% 4% 100% 100%;
+    background-color: #e02323;
+}
+
+.body {
+    margin-top: 8vh;
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+}
+.info-item { 
+    width: 33%;
+}
+
+.item-border {
+    border-right: 2px solid black;
+}
+
+.abilities {
+    margin-top: 3vh;
+}
+
+.ability .desc {
+    text-align: justify;
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 0 8% 0 8%;
+}
+
+.types {
+    margin-top: 3vh;
+}
+
+.types li {
+    list-style-position: inside;
+}
